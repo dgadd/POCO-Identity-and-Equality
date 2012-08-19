@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gaddzeit.POCOs.Tests.Unit", "Gaddzeit.POCOs.Tests.Unit\Gaddzeit.POCOs.Tests.Unit.csproj", "{A689FA7E-351E-4F39-B675-136C16033CAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gaddzeit.POCOs", "Gaddzeit.POCOs\Gaddzeit.POCOs.csproj", "{1753F4CA-864C-4AF5-BBB6-D5C4FF947934}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1753F4CA-864C-4AF5-BBB6-D5C4FF947934}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1753F4CA-864C-4AF5-BBB6-D5C4FF947934}.Debug|x86.Build.0 = Debug|Any CPU
+		{1753F4CA-864C-4AF5-BBB6-D5C4FF947934}.Release|x86.ActiveCfg = Release|Any CPU
+		{1753F4CA-864C-4AF5-BBB6-D5C4FF947934}.Release|x86.Build.0 = Release|Any CPU
+		{A689FA7E-351E-4F39-B675-136C16033CAE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A689FA7E-351E-4F39-B675-136C16033CAE}.Debug|x86.Build.0 = Debug|Any CPU
+		{A689FA7E-351E-4F39-B675-136C16033CAE}.Release|x86.ActiveCfg = Release|Any CPU
+		{A689FA7E-351E-4F39-B675-136C16033CAE}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Gaddzeit.POCOs.Tests.Unit\Gaddzeit.POCOs.Tests.Unit.csproj
+	EndGlobalSection
+EndGlobal
