@@ -1,0 +1,1 @@
+A brief demo project to explore POCO identity maintained by the association collection (IDictionary<TId, T>) rather than using ISet<T> and maintaining identity in the POCO equals() / getHashCode()
